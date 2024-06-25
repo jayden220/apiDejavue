@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
-            "contactDetails":""
+            "id":"1",
+            "firstName":"Elvin",
+            "lastName":"Harris",
+            "gender":"Male",
+            "profile":"eharris",
+            "contactDetails":"054 567 7655"
+        },
+        {
+            "id":"2",
+            "firstName":"Chloe",
+            "lastName":"Smith",
+            "gender":"Female",
+            "profile":"csmith",
+            "contactDetails":"087 654 231"
+        },
+        {
+            "id":"3",
+            "firstName":"Keegan ",
+            "lastName":" Niekerk",
+            "gender":"Male",
+            "profile":"K.S.Niekerk",
+            "contactDetails":"0814214195"
+        },
+        {
+            "id":"4",
+            "firstName":"Tyra",
+            "lastName":"Parring",
+            "gender":"female",
+            "profile":"tyraparring_",
+            "contactDetails":"0642590672"
+        },
+        {
+            "id":"5",
+            "firstName":"Kiara",
+            "lastName":"Adams",
+            "gender":"female",
+            "profile":"kiaraadams_",
+            "contactDetails":"0623674589"
         }
     ]
 }
